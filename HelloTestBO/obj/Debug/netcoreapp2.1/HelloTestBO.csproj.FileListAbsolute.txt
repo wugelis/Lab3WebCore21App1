@@ -1,0 +1,12 @@
+D:\Temp\20190112\Lab3Std2\HelloTestBO\bin\Debug\netcoreapp2.1\HelloTestBO.deps.json
+D:\Temp\20190112\Lab3Std2\HelloTestBO\bin\Debug\netcoreapp2.1\HelloTestBO.dll
+D:\Temp\20190112\Lab3Std2\HelloTestBO\bin\Debug\netcoreapp2.1\HelloTestBO.pdb
+D:\Temp\20190112\Lab3Std2\HelloTestBO\obj\Debug\netcoreapp2.1\HelloTestBO.csproj.CoreCompileInputs.cache
+D:\Temp\20190112\Lab3Std2\HelloTestBO\obj\Debug\netcoreapp2.1\HelloTestBO.AssemblyInfoInputs.cache
+D:\Temp\20190112\Lab3Std2\HelloTestBO\obj\Debug\netcoreapp2.1\HelloTestBO.AssemblyInfo.cs
+D:\Temp\20190112\Lab3Std2\HelloTestBO\obj\Debug\netcoreapp2.1\HelloTestBO.dll
+D:\Temp\20190112\Lab3Std2\HelloTestBO\obj\Debug\netcoreapp2.1\HelloTestBO.pdb
+D:\Temp\20190112\Lab3Std2\HelloTestBO\obj\Debug\netcoreapp2.1\HelloTestBO.csprojAssemblyReference.cache
+D:\Temp\20190112\Lab3Std2\HelloTestBO\bin\Debug\netcoreapp2.1\HelloTestDTO.dll
+D:\Temp\20190112\Lab3Std2\HelloTestBO\bin\Debug\netcoreapp2.1\HelloTestDTO.pdb
+D:\Temp\20190112\Lab3Std2\HelloTestBO\obj\Debug\netcoreapp2.1\HelloTestBO.csproj.CopyComplete

@@ -1,0 +1,8 @@
+D:\Temp\20190112\Lab3Std2\HelloTestDTO\bin\Debug\netcoreapp2.1\HelloTestDTO.deps.json
+D:\Temp\20190112\Lab3Std2\HelloTestDTO\bin\Debug\netcoreapp2.1\HelloTestDTO.dll
+D:\Temp\20190112\Lab3Std2\HelloTestDTO\bin\Debug\netcoreapp2.1\HelloTestDTO.pdb
+D:\Temp\20190112\Lab3Std2\HelloTestDTO\obj\Debug\netcoreapp2.1\HelloTestDTO.csproj.CoreCompileInputs.cache
+D:\Temp\20190112\Lab3Std2\HelloTestDTO\obj\Debug\netcoreapp2.1\HelloTestDTO.AssemblyInfoInputs.cache
+D:\Temp\20190112\Lab3Std2\HelloTestDTO\obj\Debug\netcoreapp2.1\HelloTestDTO.AssemblyInfo.cs
+D:\Temp\20190112\Lab3Std2\HelloTestDTO\obj\Debug\netcoreapp2.1\HelloTestDTO.dll
+D:\Temp\20190112\Lab3Std2\HelloTestDTO\obj\Debug\netcoreapp2.1\HelloTestDTO.pdb
